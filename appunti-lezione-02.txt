@@ -1,1 +1,3 @@
-Abbiamo clonato il repository
+git add.
+git commit -m "..."
+git push
