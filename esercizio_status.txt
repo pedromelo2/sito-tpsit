@@ -1,5 +1,5 @@
 Domanda 1:
-Git segnala tre file diversi: appunti-lezione-01.txt; README.md; argomento-sito.txt
+Git segnala tre file diversi: appunti-lezione-01.txt (che sta per essere commitato); README.md(file non sulla area di stage); argomento-sito.txt (file che non sono stati aggiunti con git add)
 
 Domanda 2:
 Il file che sarà commitato è appunti-lezione-01.txt

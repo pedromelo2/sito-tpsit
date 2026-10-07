@@ -1,0 +1,17 @@
+1. feat: modificati i file uno.txt, due.txt
+Il messaggio iniziale non specificava i file modificati
+
+2. feat: aggiunti i file 1.txt e due.txt
+Il messaggio era lettere messe a caso, senza significato.
+
+3. fix: corretto un errore grammaticale nel file scheda.txt
+Il messaggio non specificava ne il perchè della modifica del file ne il file stesso
+
+4. feat: rimosso il file tre.txt
+Il messaggio diceva solo la data del commit, ma non le modifiche
+
+5. feat: ho cambiato il colore della pagina e aggiunto più appunti in appunti.txt
+Il messaggio non specificava il tipo di commit ed era troppo vago nelle modifiche
+
+6. fix: corretto un bug che causava un crash nell'avvio del codice
+Il messaggio non specificava la correzione
