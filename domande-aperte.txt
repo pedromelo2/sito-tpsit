@@ -1,2 +1,6 @@
 domanda 1
 domanda 2 (non capivo quali erano le domande rimaste dal modulo)
+
+e2d30db (HEAD -> main) feat: aggiunte le domande del modulo
+e90cf46 feat: aggiunti degli appunti
+ffc12eb fix: corretto un errore nel testo
