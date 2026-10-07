@@ -1,0 +1,4 @@
+git config --global --list
+
+user.name=Pedro Melo
+user.email=pedro.melo@marconirovereto.it
