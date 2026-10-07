@@ -1,0 +1,8 @@
+Domanda 1:
+Git segnala tre file diversi: appunti-lezione-01.txt; README.md; argomento-sito.txt
+
+Domanda 2:
+Il file che sarà commitato è appunti-lezione-01.txt
+
+Domanda 3:
+Si dovrebbe fare "git add ." per aggiungere tutti i file nella directory nella area di stage, e poi commitare con "git commit -m "...""
