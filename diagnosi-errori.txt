@@ -1,0 +1,15 @@
+1. errore fatale: non e' un repository di Git (o alcune delle directory)
+compare quando si esegue un comando git dentro in una directory che non e' stata inizializzata con git init
+fare git init nella directory
+
+2. identita' dell'autore sconosciuta (per favore dimmi chi sei)
+compare quando non e' stato dato lo user e l'email su git config
+fare git config --global user.name "...", git config --global user.email "..."
+
+3. ! [respinto] main > main (recupera prima), errore: non riuscito a mandare alcuni riferimenti a "https://github.com/..."
+compare quando si prova a mandare modifiche dal locale a github, ma sul github ci sono commit non presenti sul locale
+fare git pull origin main e subito dopo git push origin main
+
+4. errore fatale: destinazione "sito-tpsit" esiste gia' e non e' un directory vuoto
+compare quando si fa git clone in un directory dove la repository clonata c'e gia'
+eliminare la cartella esistente e poi fare git clone
