@@ -1,0 +1,3 @@
+comando usato per riportare la modifica sulla postazione e' "git pull"
+
+se avessi tentato "git push" prima del pull avrebbe dato un errore, dato che la repository del github aveva un commit in piu' della postazione
