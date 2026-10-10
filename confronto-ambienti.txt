@@ -1,0 +1,14 @@
+OSSERVAZIONI:
+
+Il codespace si apre subito nel browser; la postazione locale richiede piu' tempo all'avvio del PC
+Nel codespace e' tutto gia' pronto; in locale bisogna configurare prima
+Il codespace serve una connessione internet; la postazione locale permette di continuare a lavorare e fare commit offline
+Il codespace consuma ore-core; la postazione locale non ha limiti di tempo
+Con il codespace posso lavorare da qualsiasi computer; con la postazione locale i file restano solo su quel PC
+
+2. CRITERIO DI SCELTA
+Scelgo codespace se cambio spesso computer e ho una connessione internet.
+Scelgo la postazione locale se voglio lavorare senza limiti di tempo o offline.
+
+3. CASO CONCRETO
+A prima vista la postazione locale sembra meno comoda perche' richiede piu' configurazioni manuali, conviene sceglierla quando ci si trova a lavorare senza connessione internet oppure se sono finite le ore di quota mensile su GitHub.
