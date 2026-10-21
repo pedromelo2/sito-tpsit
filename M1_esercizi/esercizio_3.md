@@ -1,7 +1,7 @@
 # Scheda del film: Il favoloso mondo di Amélie
 
-Regia di Jean-Pierre Jeunet
-Anno di uscita 2001
+Regia di Jean-Pierre Jeunet  
+Anno di uscita 2001  
 Musiche di Yann Tiersen
 
 ## La colonna sonora
@@ -16,7 +16,7 @@ film.
 
 ## La copertina del disco
 
-![Copertina del disco, con la protagonista ripresa di spalle](copertina.svg)
+![Copertina del disco, con la protagonista ripresa di spalle](https://www.cinema-astra.it/wp-content/uploads/2021/05/locandina.jpg)
 
 ## Le informazioni essenziali
 
@@ -34,11 +34,11 @@ Le voci principali della scheda sono riassunte qui sotto.
 I dati provengono dalla [scheda del film](https://it.wikipedia.org/wiki/Il_favoloso_mondo_di_Am%C3%A9lie)
 e dal libretto del disco.
 
-## Comando usato per rileggere l'elenco dei brani (??)
-
-```bash
-type dati\brani.txt
-
-## Note
-
-Scheda compilata in laboratorio dalla classe 3Bi.
+## Correzzioni
+1. aggiunto uno spazio iniziale  al primo titolo 
+2. diviso in 3 paragrafi le informazioni sul film
+3. aggiunto spazi iniziali all'elenco per far funzionare l'elenco
+4. sostituito l'immaggine non esistente con un indirizzo dell'immaggine da wikipedia
+5. rimosso una riga orizzontale inutile
+6. aggiunti la seconda riga mancante (dei trattini) per fare funzionare la tabella
+7. invertite le parentesi del collegamento alla pagina wikipedia del film
