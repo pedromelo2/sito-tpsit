@@ -10,3 +10,6 @@
 | 8 | X | X | TPSIT (Lab.) | X | Autonomia
 | 9 | X | X | Italiano | X | Informatica (Lab.)
 | 10 | X | X | Inglese | X | Informatica (Lab.)
+
+#### Collegamento README
+[README.md](../../README.md)

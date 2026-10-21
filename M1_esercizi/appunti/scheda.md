@@ -15,3 +15,6 @@
 > Kanye West non è solo il miglior creatore di beat in circolazione, ma ha anche il grande merito di aver ri-nobilitato la scrittura dei testi. Superato il periodo Public Enemy e old school, le liriche dei testi rap si erano occupate sempre meno di questioni sociali e sempre più di tette e culi. Con Kanye West, si torna a percepire un rinnovato interesse per quello che succede al di fuori della propria Lexus e ci si ricorda che il mondo è ancora teatro di ingiustizie. Ecco quindi il commercio di diamanti e la guerra civile in Sierra Leone, l’inadeguata assistenza sanitaria, la sperequazione economica e la crescita del tasso di tossicodipendenza tra i giovani.
 
 [Late Registration Wikipedia](https://it.wikipedia.org/wiki/Late_Registration)
+
+#### Collegamento README
+[README.md](../../README.md)

@@ -52,3 +52,6 @@ Si scrive usando un trattino al inizio, e poi facendo `[ ]` per una casella vuot
 - [ ] Esercizio 2
 
 ---
+
+#### Collegamento README
+[README.md](../../README.md)
