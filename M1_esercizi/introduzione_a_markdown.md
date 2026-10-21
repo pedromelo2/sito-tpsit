@@ -83,6 +83,6 @@ Questo è un paragrafo normale
 | Bianchi | Franco | 5 |
 
 ## Checklist 
-[x] Installazone del programma
-[x] Prima esecuzione
-[x] Correzione degli errori
+- [x] Installazone del programma  
+- [x] Prima esecuzione  
+- [ ] Correzione degli errori
