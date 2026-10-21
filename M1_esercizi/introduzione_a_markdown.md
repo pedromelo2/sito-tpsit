@@ -48,3 +48,29 @@ Anche questa parola è imporatante: *GitHub*
 
 ![Questa è una bicicletta.](https://webstore.mdspa.it/15482-large_default/mtb-29-telaio-alluminio.jpg) <br>
 ![Questo è un tramonto.](./documenti/immaggini/tramonto.jpg)
+
+Per eseguire una copia del progetto: `git clone https://github.com/progetto`
+
+``` bash
+git add
+git commit -m "messaggio"
+git push
+```
+
+``` java
+public class Mio_Programma {
+  public static void main(String[] args ) {
+    System.out.println("Hello world!")
+  }
+}
+```
+
+``` python
+print("Hello world!")
+```
+
+Questo è un paragrafo normale
+
+> ATTENZIONE! Il programma dev'essere **compilato** prima dell'esecuzione
+
+---
