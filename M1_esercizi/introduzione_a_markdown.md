@@ -46,5 +46,5 @@ Anche questa parola è imporatante: *GitHub*
 
 ## Immaggini
 
-![Questa è una bicicletta.](https://webstore.mdspa.it/15482-large_default/mtb-29-telaio-alluminio.jpg)
+![Questa è una bicicletta.](https://webstore.mdspa.it/15482-large_default/mtb-29-telaio-alluminio.jpg) <br>
 ![Questo è un tramonto.](./documenti/immaggini/tramonto.jpg)
