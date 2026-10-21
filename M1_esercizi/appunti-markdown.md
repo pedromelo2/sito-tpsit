@@ -24,7 +24,8 @@ Questi tipi di file si possono trovare ovunque:
 ### **Collegamenti**
 Un collegamento puo' essere con un'**immaggine** o con un **link** a una pagina web. <br>
 Per i link, si mette prima il testo tra parentesi quadrate *[]*, e poi il collegamento con parentesi tonde *()*. <br>
-Invece per le immaggini sono la stessa cosa, ma si deve mettere un punto esclamativo all'inizio *!*.
+Invece per le immaggini sono la stessa cosa, ma si deve mettere un punto esclamativo all'inizio *!*. <br>
+Per collegare un file all'interno di un'altra cartella si dovrebbe fare `[File](./cartella/file)`
 
 ### **Codice in linea/blocchi di codice**
 Come il titolo dice. Si mette all'interno di virgolette inverse, esempio: ` git commit -m "MESSAGGIO" `. <br>

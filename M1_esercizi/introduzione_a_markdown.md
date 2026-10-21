@@ -33,3 +33,18 @@ Anche questa parola è imporatante: *GitHub*
   4. HTML
   5. CSS
   6. JavaScript
+
+## Collegamenti
+
+[Vai a GMail](https://gmail.com)
+
+[GitHub](https://github.com)
+
+## Lezioni
+[Lezione1](./documenti/lezione1.md)
+[Lezione2](./documenti/lezione2.md)
+
+## Immaggini
+
+![Questa è una bicicletta.](https://webstore.mdspa.it/15482-large_default/mtb-29-telaio-alluminio.jpg)
+![Questo è un tramonto.](./documenti/immaggini/tramonto.jpg)
