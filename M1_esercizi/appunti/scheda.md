@@ -1,6 +1,7 @@
 # *Late Registration*
 ### Autore: *Kanye West*
 ### Data di uscita: *30 agosto 2005*
+![Cover del disco](../documenti/immaggini/Latereg.jpg)
 
 #### Descrizione
 **Late Registration** e' il secondo album ufficiale del rapper americano Kanye West, e fa parte della *trilogia 'scolastica'*: assieme a *College Dropout* e *Graduation*. Nelle canzioni dell'album unisce elementi hip-hop con strumenti d'orchestra, e si parla di temi come il denaro, famiglia e societa'. L'album ha avuto un grande successo tra il pubblico e i critici musicali. Ha vinto anche il premio Grammy come miglior album rap dell'anno.

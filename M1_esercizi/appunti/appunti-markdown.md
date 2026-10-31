@@ -47,7 +47,7 @@ Si scrive separando le celle con le barre verticali. La seconda riga si deve per
 | 2 | ... | ... |
 
 ### **Caselle**
-Si scrive usando un trattino al inizio, e poi facendo `[ ]` per una casella vuota o `[x]` per una fatta.
+Si scrive usando un trattino al inizio, e poi facendo `[ ]` per una casella vuota o `[x]` per una piena.
 - [x] Esercizio 1
 - [ ] Esercizio 2
 
