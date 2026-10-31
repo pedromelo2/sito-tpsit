@@ -19,3 +19,14 @@
 
 #### Collegamento README
 [README.md](../../README.md)
+
+| 1 | 2 | 3 |
+|---|---|---|
+| ... | ... | ... |
+| ... | ... | ... |
+
+- [ ] 
+
+
+
+## Confronto tra le due rese
