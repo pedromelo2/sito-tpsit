@@ -30,3 +30,5 @@
 
 
 ## Confronto tra le due rese
+La tabella e la casella di spunta si vedono allo stesso modo su entrambi, perche' i programmi usano lo stesso linguaggio (GitHub Flavored Markdown)  
+L'unica differenza e' l'immagine, si vede nell'anteprima di Visual Studio Code, ma non si vede su GitHub. Questa differenza non dipende da Markdown, ma dal sistema su cui si trova il file. Il computer su cui si usa Visual Studio Code non nota le maiuscole e minuscole nel percorso dell'immagine. Nei server di GitHub, se una lettera e' maiuscola nel nome del file ma minuscola nel testo, non trova l'immagine e non la mostra.
