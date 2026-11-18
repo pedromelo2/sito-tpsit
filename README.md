@@ -13,7 +13,8 @@ La repository contiene le cartelle dei diversi moduli, con i loro rispettivi ese
 
 ## Progetto del corso
 
-Argomento scelto: **Pop rap**
+Argomento scelto: genere musicale, **Pop rap**
+- index.html: La pagina iniziale del sito
 - storia.html: La storia del genere, dalle sue origini negli anni '80 ai 2010
 
 ## Come copiare la repository sul locale
