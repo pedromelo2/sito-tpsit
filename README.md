@@ -16,6 +16,7 @@ La repository contiene le cartelle dei diversi moduli, con i loro rispettivi ese
 Argomento scelto: genere musicale, **Pop rap**
 - index.html: La pagina iniziale del sito
 - storia.html: La storia del genere, dalle sue origini negli anni '80 ai 2010
+- datiKanyeWest.html : Una tabella che mostra gli album di Kanye West, con le loro date e stream su Spotify
 
 ## Come copiare la repository sul locale
 Basterà fare `git clone https://github.com/pedromelo2/sito-tpsit.git` con Git CMD sulla cartella in cui vorresti clonare.
