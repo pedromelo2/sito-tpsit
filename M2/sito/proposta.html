@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pop Rap: Proposta</title>
+</head>
+<body>
+
+    <h1>Proponi un singolo/album</h1>
+
+    <fieldset>
+        <legend>I tuoi dati</legend>
+
+        <p>
+            <label for="cognome">Cognome e nome</label> <br>
+            <input type="text" id="cognome" name="cognome" size="40" required>
+        </p>
+
+        <p>
+            <label for="email">Inserisci la tua email</label>
+            <input type="email" id="email" name="email" size="40" required>
+        </p>
+
+        <p>
+            <label for="newsletter">Vuoi iscriverti alla newsletter?</label>
+            <input type="checkbox" id="newsletter" name="newsletter">
+        </p>
+    </fieldset>
+    
+
+
+    
+
+   <fieldset>
+        <legend>Proposta</legend>
+
+        <p>
+            
+        </p>
+    
+        <p>
+            E' un singolo, album o EP? <br>
+            
+            <label for="tipo">Singolo</label> 
+            <input type="radio" id="tipo" name="tipo" value="singolo"> <br>
+            <label for="tipo">Album</label>
+            <input type="radio" id="tipo" name="tipo" value="tipo" checked> <br>
+            <label for="tipo">EP</label> 
+            <input type="radio" id="tipo" name="tipo" value="tipo">
+        </p>
+
+        <p>
+            A quale sottogenere appartiene la opera proposta?
+            <select id="sottogenere" name="sottogenere">
+                <option value="melodic-rap">Melodic Pop Rap</option>
+                <option value="alt-pop-rap">Alternative / Indie Pop Rap</option>
+                <option value="dance-pop-rap">Dance / Club Pop Rap</option>
+                <option value="urban-rnb-rap">Urban R&B / Crossover</option>
+            </select>
+            
+        </p>
+
+        <p>
+            <label for="nomeproposta">Nome del singolo/album/EP</label>
+            <input type="text" id="nomeproposta" name="nomeproposta" size="40" required>
+        </p>
+
+        <p>
+            <label for="autore">Nome dell'artista/degli artisti</label>
+            <input type="text" id="autore" name="autore" size="40" required>
+        </p>
+
+        <p>
+            <label for="datauscita">Data di uscita dell'opera</label>
+            <input type="date" id="datauscita" name="autore" size="40" required>
+        </p>
+
+        <p>
+            <label for="numerotracce">Numero di tracce nell'opera, se e' un'album o un EP</label>
+            <input type="number" id="numerotracce" name="numerotracce" min="1" max="25">
+        </p>
+
+        <p>
+            <label for="motivo">Perche' hai scelto questo'opera?</label>
+            <textarea id="motivo" name="motivo"></textarea>
+        </p>
+   </fieldset>
+
+
+
+
+
+
+
+    <h1><a href="index.html">Torna alla pagina iniziale</a></h1>
+</body>
+</html>

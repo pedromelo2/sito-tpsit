@@ -1,6 +1,6 @@
 # Repository creata per il sito per TPSIT
 
-E' la repository creato nell'anno scolastico 2026/27 per il sito della materia TPSIT, creato da Pedro Melo.
+E' la repository creata nell'anno scolastico 2026/27 per il sito della materia TPSIT, creato da Pedro Melo.
 
 ## Come si movimenta
 
@@ -17,6 +17,7 @@ Argomento scelto: genere musicale, **Pop rap**
 - index.html: La pagina iniziale del sito
 - storia.html: La storia del genere, dalle sue origini negli anni '80 ai 2010
 - datiKanyeWest.html : Una tabella che mostra gli album di Kanye West, con le loro date e stream su Spotify
+- proposta.html: Un modello di proposta di un singolo, album o EP
 
 ## Come copiare la repository sul locale
 Basterà fare `git clone https://github.com/pedromelo2/sito-tpsit.git` con Git CMD sulla cartella in cui vorresti clonare.
